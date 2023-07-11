@@ -1,4 +1,4 @@
-simple python script that allows me to test if my website are up or not using a trayicon
+simple python script that allows me to test if my websites are up or not using a trayicon
 
 you can run it with pythonw.exe on windows to hide to console
 
